@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Research and Education Agenda for Howie Choset, Biorobotics Lab, Carnegie Mellon
+title:  Research and Education Agenda, Biorobotics Lab, Carnegie Mellon
 subtitle: 
 ---
 
